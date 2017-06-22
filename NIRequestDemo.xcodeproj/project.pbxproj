@@ -622,6 +622,7 @@
 				DEVELOPMENT_TEAM = D66L8SMRE3;
 				INFOPLIST_FILE = NIRequestDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.asiainfo.-.NIRequestDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "$(PODS_ROOT)/**";
@@ -635,6 +636,7 @@
 				DEVELOPMENT_TEAM = D66L8SMRE3;
 				INFOPLIST_FILE = NIRequestDemo/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				ONLY_ACTIVE_ARCH = NO;
 				PRODUCT_BUNDLE_IDENTIFIER = "com.asiainfo.-.NIRequestDemo";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 				USER_HEADER_SEARCH_PATHS = "$(PODS_ROOT)/**";
@@ -710,6 +712,7 @@
 				8C1483131EFC1C0D008AE1F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C1483141EFC1C0D008AE1F2 /* Build configuration list for PBXNativeTarget "NIRequestDemoTests" */ = {
 			isa = XCConfigurationList;
@@ -718,6 +721,7 @@
 				8C1483161EFC1C0D008AE1F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		8C1483171EFC1C0D008AE1F2 /* Build configuration list for PBXNativeTarget "NIRequestDemoUITests" */ = {
 			isa = XCConfigurationList;
@@ -726,6 +730,7 @@
 				8C1483191EFC1C0D008AE1F2 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};

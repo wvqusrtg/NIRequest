@@ -12,8 +12,7 @@ Pod::Spec.new do |s|
   s.social_media_url   = "https://nixinsheng.github.io/"
   s.platform     = :ios, "8.0"
   s.source       = { :git => "https://github.com/wvqusrtg/NIRequest.git", :tag => "0.0.1" }
-  s.source_files  = "NIRequest/HttpTool", "*.{h,m}"
-  s.public_header_files = "NIRequest/NIRequest.h"
+  s.source_files  = "NIRequest", "*.{h,m}"
   s.requires_arc = true
   s.dependency "AFNetworking", "~> 3.1.0"
   s.dependency "Reachability", "~> 3.2"
