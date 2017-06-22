@@ -8,6 +8,8 @@
 
 #import "NetWorkStatus.h"
 #import <UIKit/UIKit.h>
+#import "Reachability.h"
+
 @implementation NetWorkStatus
 
 #pragma mark - 获取当前网络状态
