@@ -7,7 +7,7 @@ Pod::Spec.new do |s|
                    DESC
 
   s.homepage     = "https://nixinsheng.github.io/"
-  s.license      = { :type => "MIT", :file => "FILE_LICENSE" }
+  s.license      = "MIT"
   s.author             = { "倪新生" => "1911398892@qq.com" }
   s.social_media_url   = "https://nixinsheng.github.io/"
   s.platform     = :ios, "8.0"
